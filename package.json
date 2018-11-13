@@ -1,0 +1,19 @@
+{
+  "name": "naming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnjayasingh/codecamp-naming-package.git"
+  },
+  "author": "John S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnjayasingh/codecamp-naming-package/issues"
+  },
+  "homepage": "https://github.com/johnjayasingh/codecamp-naming-package#readme"
+}
